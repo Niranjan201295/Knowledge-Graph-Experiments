@@ -1,0 +1,763 @@
+@prefix book: <https://schema.org/Book/> .
+@prefix price: <http://dsci558.org/Price/> .
+@prefix rating_count: <http://dsci558.org/RatingCount/> .
+
+book:Always_Managing_My_Autobiography a book:name ;
+    price:price "$25.18" ;
+    rating_count:rating_count "328" ;
+    book:about "The autobiography of one of the greatest living English soccer managers of his generation From kicking a ball as a kid under the street lamps of Poplar and standing on Highbury's North Bank with my dad, to my first game at West Ham, I was born head over heels in love with football. It saved me, and 50 years on that hasn't changed one bitâIâd be lost without itâ¦ Harry Redknapp is the manager who has seen it allâfrom training pitches with trees in the middle to the unbeatable highs of the Premiership, lifting the FA Cup and taking on Real Madrid in the Champions League. With his much loved, no-nonsense delivery, Harry brings us a story filled with passion and humor that takes you right inside every drama of his career. Harry finally tells the full story of all the controversial ups and downsâthe pain and heartache of his court case, the England job, his love for Bobby Moore, his adventures at Portsmouth with Milan Mandaric, Tottenham and Daniel Levy, and not forgetting his years at West Ham or the challenges at his current club QPR. It's the epic journey of one of the great managers and, along the way, the story of the British game itself over the last five decades. In an era now dominated by foreign coaches Harry is the last of an old-fashioned breed of English soccer menâone who has managed to move with the times and always come out fighting." ;
+    book:aggregateRating "3.71" ;
+    book:author "Harry Redknapp" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "10/10/2013" ;
+    book:isbn "9781407060736" ;
+    book:numberOfPages "432" ;
+    book:publisher "Ebury Press" ;
+    book:size "NA" .
+
+book:And_Walls_Came_Tumbling_Down_An_Autobiography a book:name ;
+    price:price "$16.28" ;
+    rating_count:rating_count "62" ;
+    book:about "Originally published in 1989, this beautifully written autobiography of the Rev. Dr. Ralph David AbernathyÂMartin Luther King Jr.'s partner and eventual successorÂnot only tells his own story but also expounds on the leaders he knew intimately, including King, Jesse Jackson, Andrew Young, and Lyndon Johnson, among others. Revealing the planning that went into major protests and the negotiations that brought them to a close, Abernathy chronicles a movement, recalling the bitter defeats they faced, the misery and deaths they suffered. Amidst these struggles, though, he celebrates the victories that integrated communities, gave economic and political power to the disenfranchised, and brought hope to people who had not dreamed of it. Throughout, Abernathy's close relationship with King is central to the storyÂand to the civil rights movement. In 1956, when Rosa Parks was arrested for refusing to give up her seat on a Montgomery bus, it was Abernathy who enlisted King to join the protest. Together, they led the landmark bus boycott for 381 days, during which Abernathyâs house was bombed and his church dynamited. From there, the two helped found the Southern Christian Leadership Conference (SCLC), and they were jailed together more than 40 times. Their protests and marches took them all over the SouthÂSelma, Albany, BirminghamÂand to Washington and Chicago as well. An unsung hero of his era, Abernathy's inspiring memoir ultimately shows how their victories, and even their setbacks, led to social and legislative changes across the entire country." ;
+    book:aggregateRating "3.95" ;
+    book:author "Ralph David Abernathy" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "04/01/2010" ;
+    book:isbn "9781569762790" ;
+    book:numberOfPages "672" ;
+    book:publisher "Chicago Review Press" ;
+    book:size "6.00(w) x 8.90(h) x 1.40(d)" .
+
+book:As_If_An_Autobiography a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "0" ;
+    book:about "As If: An Autobiography traces the complex life and career of director, scholar, and theorist Herbert Blau, one of the most innovative voices in the American theater. From his earliest years on the streets of Brooklyn, with gang wars there, to the often embattled, now-legendary Actor's Workshop of San Francisco, the powerfully told story of Blau's first four decades is also a social history, moving from the Great Depression to the cold war, with fallout from \"the balance of terror\" on what he once described in an incendiary manifesto as The Impossible Theater. Blau has always forged his own path, from his activist resistance to the McCarthy witch hunts to his emergence as a revolutionary director whose work included the controversial years at The Workshop, which introduced American audiences to major playwrights of the European avant-garde, including Brecht, Beckett, Genet, and Pinter. There is also an account here of that notorious production of Waiting for Godot at the maximum-security prison at San Quentin, which became the insignia of the Theater of the Absurd. Blau went on from The Workshop to become codirector of the Repertory Theater of Lincoln Center, and then founding provost of California Institute of the Arts, where he developed and became artistic director of the experimental group KRAKEN. Currently Byron W. and Alice L. Lockwood Professor of the Humanities at the University of Washington, Blau has been visionary in the passage from theater to theory, and his many influential and award-winning books include The Dubious Spectacle: Extremities of Theater, 1976â2000; Sails of the Herring Fleet: Essays on Beckett; Nothing in Itself: Complexions of Fashion; To All Appearances: Ideology and Performance; The Audience; The Eye of Prey: Subversions of the Postmodern; and Take Up the Bodies: Theater at the Vanishing Point. This richly evocative book includes never-before-published photographs of the author, his family and friends, collaborators in the theater, and theater productions." ;
+    book:aggregateRating "0.0" ;
+    book:author "Herbert Blau" ;
+    book:bookFormat "Hardcover" ;
+    book:datePublished "05/31/2011" ;
+    book:isbn "9780472117789" ;
+    book:numberOfPages "302" ;
+    book:publisher "University of Michigan Press" ;
+    book:size "6.30(w) x 9.10(h) x 1.20(d)" .
+
+book:Autobiography_Chinese_Girl a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "8" ;
+    book:about "NA" ;
+    book:aggregateRating "3.38" ;
+    book:author "Ping-Ying Hsieh" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "02/01/1986" ;
+    book:isbn "9780863580529" ;
+    book:numberOfPages "216" ;
+    book:publisher "Rivers Oram Press" ;
+    book:size "NA" .
+
+book:Autobiography_Maria_Callas a book:name ;
+    price:price "$16.47" ;
+    rating_count:rating_count "2" ;
+    book:about "The Autobiography Of Maria Callas: A Novel, by Alma H. Bond, is a fictionalized account of the well-known and not-so-widely known details of the tempestuous and passionate, creative and private life of the internationally acclaimed diva. The soaring heights of her talents, the doubts and fears of her decline written from a psychological, highly controversial perspective:" ;
+    book:aggregateRating "3.0" ;
+    book:author "Alma H. Bond" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "04/28/1998" ;
+    book:isbn "9780913559499" ;
+    book:numberOfPages "224" ;
+    book:publisher "Birch Brook Press" ;
+    book:size "6.35(w) x 9.39(h) x 1.02(d)" .
+
+book:Autobiography_Mark_Twain_The_Complete_Authoritative_Edition_Volume_Part a book:name ;
+    price:price "$7.00" ;
+    rating_count:rating_count "13" ;
+    book:about "This is Part 2 of a 2 part audiobook Cassette edition of Autobiography of Mark Twain: The Complete and Authoritative Edition, Volume 1. The year 2010 marks the one hundredth anniversary of Twain's death. In celebration of this important milestone, here, finally, is Mark Twain's uncensored autobiography, only now free to be published in its entirety. After dozens of false starts, at last Twain embarked on his final plan for telling the story of his life. His innovative notion--to \"talk only about the thing which interests you for the moment\"--meant his thoughts could range freely. The strict instruction that many of these texts remain unpublished for one hundred years meant that when they came out, he would be \"dead, and unaware, and indifferent,\" and that he was therefore free to speak frankly. This volume presents Mark Twain's authentic and unsuppressed voice, brimming with humor, ideas, and opinions, and speaking clearly from the grave, as he intended." ;
+    book:aggregateRating "3.92" ;
+    book:author "Mark Twain" ;
+    book:bookFormat "Audio Cassette" ;
+    book:datePublished "01/01/2010" ;
+    book:isbn "9781607788249" ;
+    book:numberOfPages "0" ;
+    book:publisher "Blackstone Audiobooks" ;
+    book:size "NA" .
+
+book:Bazaar_Life_The_Autobiography_David_Alliance a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "2" ;
+    book:about "In 1950 David Alliance arrived in Manchester with Â£14, within six years, aged twenty-four, he bought a loss-making textile mill, turned it around in six months and went on to build the biggest textile company in the western world, employing over 80,000 people. Lord Alliance describes his business philosophy and his charitable work in Iran and Israel." ;
+    book:aggregateRating "5.0" ;
+    book:author "David Alliance" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "06/02/2015" ;
+    book:isbn "9781849541923" ;
+    book:numberOfPages "448" ;
+    book:publisher "The Robson Press" ;
+    book:size "5.90(w) x 9.30(h) x 1.60(d)" .
+
+book:Being_Jordan_My_Autobiography a book:name ;
+    price:price "$13.43" ;
+    rating_count:rating_count "995" ;
+    book:about "Katie has brought this paperback edition of her autobiography right up-to-date with full details of her love for Peter, their new life together, their engagement, and their impending wedding. She also reveals the projects she has been working on and what the future holds for her career. No fan will want to miss out on the next installment of Katie's lifeâso fasten your seatbelts for another rollercoaster ride." ;
+    book:aggregateRating "3.35" ;
+    book:author "Katie Price" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "07/01/2005" ;
+    book:isbn "9781843582434" ;
+    book:numberOfPages "288" ;
+    book:publisher "John Blake" ;
+    book:size "NA" .
+
+book:Betty_Boothroyd_Autobiography a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "20" ;
+    book:about "The enormous respect and affection of the British public for Betty Boothroyd has its roots in a strong belief in what she stands forâfair play, an unshakeable sense of honor, and a passionate belief in the sovereignty of Parliament. This is a candid account of Betty Boothroydâs life in politics, and she speaks frankly of the devastation of losing two elections, of campaigning for JFK in America, and the elation she felt on finally becoming an MP in 1973. But her long political career reached its apogee in 1992 when she was appointed the first woman Speaker of the House of Commons. Detailing many of the true stories behind the headlines, she writes of the sleaze scandals that beset the Major government, her feelings when Labour won their landslide election in 1997, and her strongly held views on the role of Parliament." ;
+    book:aggregateRating "3.6" ;
+    book:author "Betty Boothroyd" ;
+    book:bookFormat "Hardcover" ;
+    book:datePublished "10/28/2002" ;
+    book:isbn "9780099427049" ;
+    book:numberOfPages "384" ;
+    book:publisher "Random House UK" ;
+    book:size "4.20(w) x 6.80(h) x 1.60(d)" .
+
+book:Beyond_Light_Barrier_The_Autobiography_Elizabeth_Klarer a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "8" ;
+    book:about "Beyond the Light Barrier is the autobiographical story of Elizabeth Klarer, a South African woman and Akon, an astrophysicist from Meton, a planet of Proxima Centuri that, at a distance of about 4.3 light years, is our nearest stellar neighbor. Elizabeth was taken in his spaceship to Meton, where she lived with him and his family for four months and where she bore his child. Her life on Meton is fascinatingly described. Akon brought Elizabeth back to Earth after the birth of their son, and continued to visit her thereafter. Akon explained how his spaceship's light-propulsion technology operated, and how it allowed him and his people to travel across vast interstellar distances. This technology is explained in detail in the book. Elizabeth was given a standing ovation at the 11th International Congress of UFO Research Groups at Weisbaden in 1975, and her speech as guest of honor was applauded by scientists of twenty-two nations. Light Technology Publishing is proud to bring you the long-awaited American edition in both hard copy and electronic format of Beyond the Light Barrier, which was first published in English in 1980." ;
+    book:aggregateRating "3.0" ;
+    book:author "Elizabeth Klarer" ;
+    book:bookFormat "Kindle Edition" ;
+    book:datePublished "03/01/2009" ;
+    book:isbn "9781891824777" ;
+    book:numberOfPages "200" ;
+    book:publisher "Light Technology Publishing" ;
+    book:size "5.90(w) x 8.90(h) x 0.50(d)" .
+
+book:Bill_Peet_An_Autobiography a book:name ;
+    price:price "$11.99" ;
+    rating_count:rating_count "909" ;
+    book:about "Bill Peet tells his life story, including his years with Disney, with illustrations on every page." ;
+    book:aggregateRating "4.19" ;
+    book:author "Bill Peet" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "03/28/1994" ;
+    book:isbn "9780395689820" ;
+    book:numberOfPages "192" ;
+    book:publisher "HMH Books for Young Readers" ;
+    book:size "7.90(w) x 9.90(h) x 0.60(d)" .
+
+book:Bit_Blur_The_Autobiography a book:name ;
+    price:price "$14.06" ;
+    rating_count:rating_count "1556" ;
+    book:about "For Alex James, music had always been a door to a more exciting lifeâa way to travel, meet new people, and, hopefully, pick up girls. But as bass player of Blurâone of the most successful British bands of all timeâhis journey was more exciting and extreme than he could ever have predicted. Success catapulted him from a slug-infested squat in Camberwell to a world of private jets and world-class restaurants. As \"the second drunkest member of the worldâs drunkest band\" Alex James's life was always chaotic, but he retained a boundless enthusiasm and curiosity at odds with his hedonistic lifestyle. From nights in the Groucho with Damien Hirst, to dancing to Sister Sledge with BjÃ¶rk, to being bitten on the nose by the lead singer of Iron Maiden, he offers a fascinating and hilarious insight into the world of celebrity. At its heart, however, this is the picaresque tale of one manâs search to find meaning and happiness in an increasingly surreal world. Pleasingly unrepentant but nonetheless a reformed man, Alex James is the perfect chronicler of his generationâwitty, frank and brimming with joie de vivre. A Bit of a Blur is as charming, funny, and deliciously disreputable as its author." ;
+    book:aggregateRating "3.72" ;
+    book:author "Alex  James" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "07/03/2008" ;
+    book:isbn "9780349119939" ;
+    book:numberOfPages "288" ;
+    book:publisher "Littl" ;
+    book:size "5.00(w) x 8.00(h) x 0.90(d)" .
+
+book:Blue_Plate_Special_An_Autobiography_My_Appetites a book:name ;
+    price:price "$10.79" ;
+    rating_count:rating_count "1774" ;
+    book:about "That the greatly admired novelist Kate Christensen has turned to the memoir form after six novels makes this book an event. Readers of memoirs of high literary quality, particularly those with food themesâmost conspicuously Ruth Reichl's Comfort Me with Apples and Gabrielle Hamilton's Blood, Bones, and Butterâas well as admirers of M. F. K. Fisher and Laurie Colwin will be a large and eager audience. This memoir derives from Kate's popular foodcentric blog ( http://katechristensen.wordpress.com ), in which she shares scenes from an unusual upbringing and an unusually happy present-day life, providing an audience for this book that is already primed. That it is written by Kate Christensen means it will be a delicious reading experience in every senseâa compulsively readable account of a knockabout life, full of sorrows and pleasures, many of the latter of the sensual, appetitive variety." ;
+    book:aggregateRating "3.34" ;
+    book:author "Kate Christensen" ;
+    book:bookFormat "Hardcover" ;
+    book:datePublished "07/09/2013" ;
+    book:isbn "9780385536271" ;
+    book:numberOfPages "368" ;
+    book:publisher "Doubleday" ;
+    book:size "NA" .
+
+book:Buck_Em_The_Autobiography_Buck_Owens a book:name ;
+    price:price "$19.99" ;
+    rating_count:rating_count "43" ;
+    book:about "(Book). Buck 'Em! The Autobiography of Buck Owens is the life story of a country music legend. Born in Texas and raised in Arizona, Buck eventually found his way to Bakersfield, California. Unlike the vast majority of country singers, songwriters, and musicians who made their fortunes working and living in Nashville, the often rebellious and always independent Owens chose to create his own brand of country music some 2,000 miles away from Music City racking up a remarkable twenty-one number one hits along the way. In the process he helped give birth to a new country sound and did more than any other individual to establish Bakersfield as a country music center. In the latter half of the 1990s, Buck began working on his autobiography. Over the next few years, he talked into the microphone of a cassette tape machine for nearly one hundred hours, recording the story of his life. With his near-photographic memory, Buck recalled everything from his early days wearing hand-me-down clothes in Texas to his glory years as the biggest country star of the 1960s; from his legendary Carnegie Hall concert to his multiple failed marriages; from his hilarious exploits on the road to the tragic loss of his musical partner and best friend, Don Rich; from his days as the host of a local TV show in Tacoma, Washington, to his co-hosting the network television show Hee Haw; and from his comeback hit, \"Streets of Bakersfield,\" to his induction into the Country Music Hall of Fame. In these pages, Buck also shows his astute business acumen, having been among the first country artists to create his own music publishing company. He also tells of negotiating the return of all of his Capitol master recordings, his acquisition of numerous radio stations, and of his conceiving and building the Crystal Palace, one of the most venerated musical venues in the country. Buck 'Em! is the fascinating story of the life of country superstar Buck Owens from the back roads of Texas to the streets of Bakersfield. Click here to watch a video extra on YouTube for Buck 'Em." ;
+    book:aggregateRating "4.37" ;
+    book:author "Randy Poe" ;
+    book:bookFormat "Hardcover" ;
+    book:datePublished "11/01/2013" ;
+    book:isbn "9781480366916" ;
+    book:numberOfPages "333" ;
+    book:publisher "Backbeat Books" ;
+    book:size "NA" .
+
+book:Contemplation_Action_The_Spiritual_Autobiography_Muslim_Scholar_Nasir_Din_Tusi a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "8" ;
+    book:about "Nasir al-Din Tusi, the renowned Shi'i scholar of the 13th century, produced a wide range of writings in different fields of learning under Ismaili patronage and later under the Mongols. His work brought him great acclaim and, as a result of his changing affiliations in the course of a brilliant scholastic career, he is claimed by both Twelver Shi'i and Ismaili traditions. Contemplation and Action is Tusi's spiritual autobiography in which he recounts details of his early education, his search for knowledge and his eventual conversion to the Ismaili faith. Translated for the first time into English, it is published here with the full Persian text and a substantial introductory essay on Tusi's life and thought." ;
+    book:aggregateRating "2.88" ;
+    book:author "Nasir al-Din Tusi" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "12/03/1999" ;
+    book:isbn "9781860645235" ;
+    book:numberOfPages "128" ;
+    book:publisher "I. B. Tauris" ;
+    book:size "5.46(w) x 8.56(h) x 0.42(d)" .
+
+book:Dear_Theo_The_Autobiography_Vincent_Van_Gogh a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "7562" ;
+    book:about "The story of Vincent Van Gogh, this narrative stands out as one of the most revealing and moving autobiographies of all time. Stone has collected Van Gogh's personal letters to his beloved brother Theo, and the result is a vivid self-portrait in words equal in intensity to his paintings." ;
+    book:aggregateRating "4.08" ;
+    book:author "Irving Stone" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "04/01/1969" ;
+    book:isbn "9780451038364" ;
+    book:numberOfPages "480" ;
+    book:publisher "Signet" ;
+    book:size "7.00(w) x 5.00(h) x 1.00(d)" .
+
+book:Diana_Strange_Autobiography a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "42" ;
+    book:about "This is the unusual and compelling story of Diana, a tantalizingly beautiful woman who sought love in the strange by-paths of Lesbos. Fearless and outspoken, it dares to reveal that hidden world where perfumed caresses and half-whispered endearments constitute the forbidden fruits in a Garden of Eden where men are never accepted. This is how \"Diana: A Strange Autobiography\" was described when it was published in paperback in 1952. The original 1939 hardcover edition carried with it a Publisher's Note: This is the autobiography of a woman who tried to be normal. In the book, Diana is presented as the unexceptional daughter of an unexceptional plutocratic family. During adolescence, she finds herself drawn with mysterious intensity to a girl friend. The narrative follows Diana's progress through college; a trial marriage that proves she is incapable of heterosexuality; intellectual and sexual education in Europe; and a series of lesbian relationships culminating in a final tormented triangular struggle with two other women for the individual salvation to be found in a happy couple. In her introduction, Julie Abraham argues that Diana is not really an autobiography at all, but a deliberate synthesis of different archetypes of this confessional genre, echoing, as it does, more than a half-dozen novels. Hitting all the high and low points of the lesbian novel, the book, Abraham illustrates, offers a defense of lesbian relationships that was unprecedented in 1939 and radical for decades afterwards." ;
+    book:aggregateRating "3.45" ;
+    book:author "Diana Frederics" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "06/01/1995" ;
+    book:isbn "9780814726358" ;
+    book:numberOfPages "282" ;
+    book:publisher "New York University Press" ;
+    book:size "6.00(w) x 9.00(h) x 8.50(d)" .
+
+book:Faster_Lightning_My_Autobiography a book:name ;
+    price:price "$12.15" ;
+    rating_count:rating_count "330" ;
+    book:about "The autobiography of the fastest man of all time and a superstar whose talent and charisma have made him one of the most famous people on the planet. Whether you know Athletics or not, and even whether you know sport or not, chances are you know Usain Bolt. The fastest man on the planet, not just now but ever, Usain has won the hearts of people everywhere with his mind-blowing performances and his infectious charisma â uniting supporters around the world. In this, his full autobiography, Usain tells his story in his own words: from humble beginnings in Jamaica, to international stardom at Beijing and on to the new heights of superstardom he has reached since lighting up London 2012. Full of the charm and charisma that has made him the most popular sporting figure of our time and a universal celebrity, this is a book that Usainâs millions of fans will love." ;
+    book:aggregateRating "3.9" ;
+    book:author "Usain Bolt" ;
+    book:bookFormat "Hardcover" ;
+    book:datePublished "09/12/2013" ;
+    book:isbn "9780007523658" ;
+    book:numberOfPages "320" ;
+    book:publisher "HarperSport" ;
+    book:size "NA" .
+
+book:Frank_Lloyd_Wright_An_Autobiography a book:name ;
+    price:price "$16.85" ;
+    rating_count:rating_count "138" ;
+    book:about "Frank Lloyd Wright exerted perhaps the greatest influence on twentieth century design. In a volume that continues to resonate more than seventy years after its initial publication, Frank Lloyd Wright: An Autobiography contains the master architect's own account of his work, his philosophy, and his personal life, written with his signature wit and charm. Wright (1867-1959) went into seclusion in a Minnesota cabin to reflect and to record his life experiences. In 1932, the first edition of the Autobiography was published. It became a form of advertising, leading many readers to seek out the master architect--thirty apprentices came to live and learn at Taliesin, Wright's Wisconsin home/school/studio, under the master's tutelage. (By 1938, Taliesin West, in Arizona, was the winter location for Wright's school.) The volume is divided into five sections devoted to family, fellowship, work, freedom, and form. Wright recalls his childhood, his apprenticeship with Dankmar Adler and Louis Sullivan, the turmoil of his personal life, and the background to his greatest achievements, including Hollyhock House, the Prairie and the Usonian Houses, and the Imperial Hotel in Tokyo." ;
+    book:aggregateRating "3.8" ;
+    book:author "Frank Lloyd Wright" ;
+    book:bookFormat "Hardcover" ;
+    book:datePublished "04/28/2005" ;
+    book:isbn "9780764932434" ;
+    book:numberOfPages "561" ;
+    book:publisher "Pomegranate Communications In" ;
+    book:size "8.12(w) x 9.42(h) x 1.64(d)" .
+
+book:General_George_Crook_His_Autobiography a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "10" ;
+    book:about "General George Crook was one Civil War general who didnât win his reputation east of the Mississippi River. To him, the Civil War was just an interlude. Before and after this great conflict, Crook was an Indian fighter. Crook fought the greatest of the Indian chieftains; served at frontier posts from the Columbia River to the Rio Grande, from Illinois to the Pacific. Yet he was as good at defending Indians as he was at fighting them. Crook understood and sympathized with them. He spoke plainly and often against injustices in the treatment of the Indian. And when he died, Red Cloud, chief of the Sioux, gave him his epitaph: âHe, at least, had never lied to us.â General George Crook: His Autobiography first came into print when Martin F. Schmitt, working in the archives of the Army War College in Washington, made the startling rediscovery of the Crook papers, which had been presented to the library of the War College by the widow of Walter S. Schuyler, one-time aid to General Crook. The existence of the autobiography had apparently not been previously suspected by any writer on the West, not even by the Generalâs friend, Captain John G. Bourke, who wrote the only existing sketch of his life. A West Point graduate of 1852, General Crook spent his entire military career, with the exception of the four Civil War years, 1861 to 1865, on the frontier. His life paralleled western expansion during the latter half of the nineteenth century. In 1890, at the time of this death, he was commanding general of the Department of the Missouri, the largest and most active of all frontier commands. The Rogue River and Yakima wars in the eighteen fifties, Paiute pacification in the late sixties, the Apache campaigns of the seventies and eightiesâall found Crook actively involved, fighting, counseling and making peace with the Indians. His Civil War experiences, while not uniformly successful or profitable, brought him into close contact with the great military figures of the day. He was a favorite of Grantâs and a close associate of Sheridan, who had been in his class at West Point. His blunt, sometimes caustic opinions of his associates and the conduct of campaigns are new and often refreshing. General Crookâs autobiography covers the period from Crookâs graduation from West Point in 1852 to June 18, 1876, the day after the famous Battle of the Rosebud. The editor has supplemented it with other material, some from the Crook diaries and letters and contemporary clippings, on the other years of the Generalâs life." ;
+    book:aggregateRating "4.3" ;
+    book:author "George Crook" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "04/28/1986" ;
+    book:isbn "9780806119823" ;
+    book:numberOfPages "368" ;
+    book:publisher "University of Oklahoma Press" ;
+    book:size "5.50(w) x 8.50(h) x 0.82(d)" .
+
+book:Graeme_Swann_The_Breaks_Are_Off_My_Autobiography_The_Breaks_Are_Off_My_Autobiography a book:name ;
+    price:price "$14.10" ;
+    rating_count:rating_count "9" ;
+    book:about "Graeme Swann's transformation from international outsider to England's primary match-winner and undisputed best spin bowler in the world has been remarkably rapid. Within two years of his 2008 Test debut, he had become his country's most reliable bowler, made the shortlist for the ICC's cricketer of the year award and claimed an Ashes-sealing wicket. Yet the script took many twists and turns along the way. Drafted into the squad for the full tour of South Africa in 1999-2000. Swann's meteoric received a jolt. While some liked the cut of his jib, others did not and England coach Duncan Fletcher already had a foot in the latter camp when Swann missed the bus for the first of two times on that tour. Suddenly he was judged on temperament and not talent. Although Swann candidly concedes he was nowhere near good enough for the top level at that stage in his career, his jettisoning back to county cricket for the next seven years, following a solitary one-day international, hinted at a career wasted. A clash with then Northamptonshire coach Kepler Wessels triggered his move to Nottinghamshire in 2005. A County Championship winner in his debut season, he was back in the England fold at the end of his third. Forever a flamboyant showman, he made up for lost time with two wickets in his first over against India - his habit of striking in his opening over a spell has become a party piece. You cannot keep the spotlight off him for long. Since moving into the top 10 of the world rankings for bowlers on the back of eight wickets in the Ashes-defining Oval Test of 2009, he has not dropped outside it, and has been widely tipped to be the decisive factor in the defence of the urn in Australia." ;
+    book:aggregateRating "3.67" ;
+    book:author "Graeme Swann" ;
+    book:bookFormat "Kindle Edition" ;
+    book:datePublished "10/13/2011" ;
+    book:isbn "9781444727395" ;
+    book:numberOfPages "416" ;
+    book:publisher "Hodder" ;
+    book:size "NA" .
+
+book:Harvard_Classics_Volume_The_Autobiography_Benjamin_Franklin_The_Journal_John_Woolman_Some_Fruits_Solitude a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "23" ;
+    book:about "Compiled and Edited by Charles W. Eliot LL D in 1909, the Harvard Classics is a 51-volume Anthology of classic literature from throughout the history of western civilization. The set is sometimes called \"Eliot's Five-Foot Shelf.\" Volume 1 of the set contains 3 works: The Autobiography of Benjamin Franklin (also called \"His Autobiography, Benjamin Franklin\") The Journal of John Woolman Some Fruits of Solitude in Reflections and Maxims by William Penn Brought to you by Poor Richards Print Shop." ;
+    book:aggregateRating "4.0" ;
+    book:author "Benjamin Franklin" ;
+    book:bookFormat "Kindle Edition" ;
+    book:datePublished "NA" ;
+    book:isbn "2940017704479",
+        "2940026646487" ;
+    book:numberOfPages "0" ;
+    book:publisher "NA" ;
+    book:size "NA" .
+
+book:Hashish_The_Red_Sea a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "15" ;
+    book:about "NA" ;
+    book:aggregateRating "4.4" ;
+    book:author "Henri de Monfreid" ;
+    book:bookFormat "Unknown Binding" ;
+    book:datePublished "01/01/1973" ;
+    book:isbn "9780883730065" ;
+    book:numberOfPages "287" ;
+    book:publisher "Stonehill" ;
+    book:size "NA" .
+
+book:Here_Now_The_Autobiography_Pat_Martino a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "24" ;
+    book:about "(Book). By age 16, Pat Martino was already working as a member of R&B star Lloyd Price's touring musical revue. By age 18, Martino moved to Harlem, where he quickly earned a reputation as a hard-bopping six-stringer with formidable chops through a series of apprenticeships with the likes of honking tenor saxophonist Willis \"Gaitor Tail\" Jackson and Hammond B-3 organ master Jack McDuff. Martino made his auspicious debut as a leader at age 22 with 1967's El Hombre on Prestige and followed with a string of potent recordings for the label that further established him as one of the most distinctive guitar voices on the jazz scene. Then, at the peak of his powers, the bottom fell out. In 1980, he underwent surgery as the result of a nearly fatal brain aneurysm. The surgery left him without any memory of the guitar or his musical career. From that point, Martino undertook the long process of recovery, eventually learning how to play the guitar again; but more important, learning to transcend the instrument itself and live his life completely in the moment. More than just the remarkable story of one of the most original and profoundly influential guitarists in jazz history, this extraordinarily revealing autobiography is also a survival manual, of sorts, in overcoming incredible adversity and learning to live in the here and now." ;
+    book:aggregateRating "4.08" ;
+    book:author "Pat Martino" ;
+    book:bookFormat "Hardcover" ;
+    book:datePublished "10/25/2011" ;
+    book:isbn "9781617130274" ;
+    book:numberOfPages "192" ;
+    book:publisher "Backbeat Books" ;
+    book:size "6.10(w) x 9.10(h) x 0.80(d)" .
+
+book:Icebreaker_Autobiography_Rudy_Galindo a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "29" ;
+    book:about "The U.S. Figure Skating champion reveals the personal and professional challenges that nearly destroyed his career, his difficult childhood in a violent neighborhood, his identity as a gay athlete, and his struggles with losing loved ones to AIDS." ;
+    book:aggregateRating "4.1" ;
+    book:author "Rudy Galindo" ;
+    book:bookFormat "Hardcover" ;
+    book:datePublished "04/28/1997" ;
+    book:isbn "9780671003906" ;
+    book:numberOfPages "272" ;
+    book:publisher "Atria" ;
+    book:size "6.36(w) x 9.52(h) x 0.87(d)" .
+
+book:In_Me_Own_Words_The_Autobiography_Bigfoot_Bigfoot a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "1042" ;
+    book:about "In My Own Words: The Autobiography of Bigfoot hilariously recasts North Americaâs favorite crypto-zoological hominid as the modern day everyman. Learn the hairy one's brave struggles with eating disorders, casual cannibalism, pop culture, and philosophical quandaries. In this crazed mutant graphic novel, Graham Roumieu gives us a portrait of the artist as a young ape that will leave the reader howling with laughter." ;
+    book:aggregateRating "4.2" ;
+    book:author "Graham Roumieu" ;
+    book:bookFormat "Hardcover" ;
+    book:datePublished "03/10/2003" ;
+    book:isbn "9780916397845" ;
+    book:numberOfPages "44" ;
+    book:publisher "Manic D Pres" ;
+    book:size "6.20(w) x 9.20(h) x 0.30(d)" .
+
+book:Invented_Symbols_An_Art_Autobiography a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "1" ;
+    book:about "\"Invented Symbols\" is Alex Katz's memoir of his education in art. Katz's story begins with his parents, Russian emigres involved in theater, and discusses everything from his finding a high school that offered the possibility of drawing from antique casts, to his acceptance at the Cooper Union, his decision to become a fine artist and beyond. Katz has always steeped himself in the literature of his time, having often painted and collaborated with poets, and it is no surprise that his take on autobiography should be particularly considered and original in its composition: the entire text of \"Invented Symbols\" is in fact a transcription of the artist recounting his memories aloud, typed up by his son, poet Vincent Katz. This book revises and expands upon the 1997 Hatje Cantz edition, long out of print." ;
+    book:aggregateRating "5.0" ;
+    book:author "Vincent Katz" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "09/30/2012" ;
+    book:isbn "9788881588404" ;
+    book:numberOfPages "173" ;
+    book:publisher "Charta" ;
+    book:size "5.80(w) x 8.20(h) x 0.50(d)" .
+
+book:King_Mild_Frontier_An_Ill_Advised_Autobiography a book:name ;
+    price:price "$8.05" ;
+    rating_count:rating_count "1149" ;
+    book:about "Do you know: A good reason to be phobic about oysters and olives? How shutting your mouth can help you avoid brain surgery? How to survive in the winter wilderness with only a fishing pole and a sausage?" ;
+    book:aggregateRating "3.97" ;
+    book:author "Chris Crutcher" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "10/05/2004" ;
+    book:isbn "9780060502515" ;
+    book:numberOfPages "272" ;
+    book:publisher "Greenwillow Books" ;
+    book:size "5.31(w) x 8.00(h) x 0.61(d)" .
+
+book:Letter_Past_An_Autobiography a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "1" ;
+    book:about "George Woodcock, author of almost 50 books, now turns to his own story in Letter to the Past: An Autobiography. Although he was born in Winnipeg in 1912, Woodcock grew up in England. His memories of adolescence and young manhood take the reader through two World Wars and a Depression, before his return to Canada in 1949. Those whom he knew and who influenced him emerge in penetrating detail from Woodcockâs narrative: his father, dying of Brightâs Disease, yet with his spirit of adventure unquenched; his friend, George Orwell, âbutter-fingeredly rolling cigarettes of the strongest black shag he could find and drinking tea as dark and almost as thick as treacleâ; and the teeming London political and literary figures of the â30s and â4Os he knew as editor of the spritely literary journal, NOW, and as a young anarchist and writer. George Woodcock, winner of the Governor Generalâs Award and the Molson Prize, now lives in Vancouver, where he founded and edited for many years Canadian Literature. He has written countless articles and books, including critical studies of novelists Hugh MacLennan and Mordecai Richler and artist Ivan Eyre, as well as biographies of George Orwell, Thomas Merton, Oscar Wilde and Kropotkin, and the panoramic study of Canada entitled The Canadians. Here is what the critics have said of Letter to the Past: âIt is not so much that chronicling the lives of William Godwin, Kropotkin, and Proudhon has constituted for Woodcock a profession like that of a portraitist; more that the underlying emotional attributes of anarchism a profound distrust of all authority mixed with a liberal dash of utopianism â have been the informing principles in his life.â â Saturday Night âThe graceful prose is so rich in detail that its effect is almost that of a life invented, not remembered.â â Macleanâs" ;
+    book:aggregateRating "4.0" ;
+    book:author "George Woodcock" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "11/16/2010" ;
+    book:isbn "9781550051841" ;
+    book:numberOfPages "331" ;
+    book:publisher "Fitzhenry & Whiteside" ;
+    book:size "6.00(w) x 8.90(h) x 1.00(d)" .
+
+book:Life_Plate_The_Autobiography a book:name ;
+    price:price "$14.95" ;
+    rating_count:rating_count "1" ;
+    book:about "Gregg Wallace, star presenter of BBC's Masterchef , restaurateur, and expert on all things pudding, shares his story for the first time. After leaving school at 14, he started his career as a greengrocer at the New Covent Garden market, and went on to create his multi-million pound fruit and veg business a decade later. A star slot on BBC Veg Talk and an award-winning television program followed, and, in 2005, the chance to front Masterchef , a show that has drawn in over 4.5 million viewers and produced some of the nation's best up-and-coming chefs. He has since opened two restaurants, Wallace & Co and Gregg's Table, penned numerous cookery books, and has written for the national and trade press. In this, his first memoir, Gregg tells how his early passion for food growing up in Peckham, south London, led to a world of Michelin star restaurants, celebrity chefs, and a mission to save Britain's produce and, in an extraordinary turn with more than a few life-changing hurdles, brought him back to his roots." ;
+    book:aggregateRating "4.0" ;
+    book:author "Greg Wallace" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "02/01/2014" ;
+    book:isbn "9781409139218" ;
+    book:numberOfPages "320" ;
+    book:publisher "Orion Publishing" ;
+    book:size "5.10(w) x 7.70(h) x 0.80(d)" .
+
+book:Life_Worth_Living_The_Autobiography a book:name ;
+    price:price "$17.98" ;
+    rating_count:rating_count "10" ;
+    book:about "A Life Worth Living tells the story of Michael Smurfitand the company he built. From humble beginnings, through years of hard work, it documents the SmurfitGroup's seemingly inexorable growth, the challenges facedand overcome, and the many deals that continually doubledthe size of the business every three or four years. It showsMichael's 'logical opportunism' in action, and explains howthe Smurfit culture and systems provided a world-beatingcompetitive advantage. Born in St Helens, Lancashire in August 1936, MichaelSmurfit joined his father's business, Jefferson Smurfit& Sons Ltd. in Dublin, straight from school to learn thepapermaking business 'from the bottom up'. Two years after the company floated on theIrish Stock Exchange, Michael and his brother Jeff became Joint Managing Directors, asJefferson Senior took on the role of Chairman and Chief Executive. Then followed 30 years ofacquisitions, as the Jefferson Smurfit Group became Ireland's first multinational companyand one of the largest paper and packaging companies in the world. In 2002, Michael tookthe Smurfit Group private, retiring as CEO but remaining Chairman. In this role, he steereda merger with Kappa Packaging BV, which successfully refloated in 2007 as Smurfit KappaGroup. Michael's life outside Smurfit - his chairmanship of the Racing Board and of TelecomEireann; his interest in horseracing; his ownership of The K Club and the triumph thatwas the Ryder Cup 2006 - all feature, alongside his love and commitment to his family. Truly, a life worth living." ;
+    book:aggregateRating "3.7" ;
+    book:author "Michael Smurfit" ;
+    book:bookFormat "Hardcover" ;
+    book:datePublished "04/04/2014" ;
+    book:isbn "9781781190135" ;
+    book:numberOfPages "330" ;
+    book:publisher "Oak Tree Press (Ireland)" ;
+    book:size "NA" .
+
+book:Mark_Twain_Own_Autobiography_The_Chapters_North_American_Review a book:name ;
+    price:price "$9.28" ;
+    rating_count:rating_count "87" ;
+    book:about "Mark Twainâs Own Autobiography stands as the last of Twainâs great yarns. Here he tells his story in his own way, freely expressing his joys and sorrows, his affections and hatreds, his rages and reverenceâending, as always, tongue-in-cheek: âNow, then, that is the tale. Some of it is true.â More than the story of a literary career, this memoir is anchored in the writerâs relation to his familyâwhat they meant to him as a husband, father, and artist. It also brims with many of Twainâs best comic anecdotes about his rambunctious boyhood in Hannibal, his misadventures in the Nevada territory, his notorious Whittier birthday speech, his travels abroad, and more. Twain published twenty-five âChapters from My Autobiographyâ in the North American Review in 1906 and 1907. âI intend that this autobiography . . . shall be read and admired a good many centuries because of its form and methodâform and method whereby the past and the present are constantly brought face to face, resulting in contrasts which newly fire up the interest all along, like contact of flint with steel.â For this second edition, Michael Kiskisâs introduction references a wealth of critical work done on Twain since 1990. He also adds a discussion of literary domesticity, locating the autobiography within the history of Twainâs literary work and within Twainâs own understanding and experience of domestic concerns." ;
+    book:aggregateRating "3.91" ;
+    book:author "Mark Twain" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "10/01/2010" ;
+    book:isbn "2940011938245" ;
+    book:numberOfPages "392" ;
+    book:publisher "University of Wisconsin Press" ;
+    book:size "NA" .
+
+book:My_Quests_Hope_Meaning_An_Autobiography a book:name ;
+    price:price "$23.00" ;
+    rating_count:rating_count "2" ;
+    book:about "This book is an autobiography tracing Rosemary Radford Ruether's intellectual development and writing career. Ruether examines the influence of her mother and family on her development and particularly her interactions with the Roman Catholic religious tradition. She delves into her exploration of interfaith relations with Judaism and Islam as well. Her educational formation at Scripps College and the importance of historical theology is also a major emphasis. Mental illness has also affected Ruether's nuclear family in the person of her son, and she details the family's struggle with this issue. Finally in this intellectual autobiography, Ruether explores her long concern and involvement with ecology, feminism, and the quest for a spirituality and practice for a livable planet." ;
+    book:aggregateRating "4.0" ;
+    book:author "Rosemary Radford Ruether" ;
+    book:bookFormat "Kindle Edition" ;
+    book:datePublished "10/02/2013" ;
+    book:isbn "9781620327128" ;
+    book:numberOfPages "213" ;
+    book:publisher "Cascade Book" ;
+    book:size "6.00(w) x 8.90(h) x 0.50(d)" .
+
+book:Not_For_Your_Hands_An_Autobiography a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "2" ;
+    book:about "NA" ;
+    book:aggregateRating "4.5" ;
+    book:author "David  Rees" ;
+    book:bookFormat "Unknown Binding" ;
+    book:datePublished "01/01/1992" ;
+    book:isbn "9781870188197" ;
+    book:numberOfPages "257" ;
+    book:publisher "Third House" ;
+    book:size "NA" .
+
+book:One_Direction_Who_We_Our_Official_Autobiography a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "8" ;
+    book:about "NA" ;
+    book:aggregateRating "4.62" ;
+    book:author "One Direction" ;
+    book:bookFormat "Audio CD" ;
+    book:datePublished "09/25/2014" ;
+    book:isbn "9780007577316" ;
+    book:numberOfPages "0" ;
+    book:publisher "HarperCollins Publishers Ltd" ;
+    book:size "6.10(w) x 9.30(h) x 1.50(d)" .
+
+book:Play_Consciousness_Spiritual_Autobiography a book:name ;
+    price:price "$21.71" ;
+    rating_count:rating_count "298" ;
+    book:about "This best selling spiritual autobiography of Swami Muktananda tells the story of his journey to self-realization under the guidance of Bhagawan Nityananda, candidly describing his extraordinary experiences. Beginning with his spiritual initiation on August 15, 1947, and continuing through his enlightenment nine years later, this is a guide for seekers moving toward the same goal." ;
+    book:aggregateRating "4.25" ;
+    book:author "Swami Muktananda" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "01/28/2000" ;
+    book:isbn "9780911307818" ;
+    book:numberOfPages "368" ;
+    book:publisher "Siddha Yoga Publications" ;
+    book:size "5.40(w) x 8.30(h) x 0.90(d)" .
+
+book:Riccardo_Muti_An_Autobiography_First_Music_Then_Words a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "17" ;
+    book:about "âA vivid portrait of life at the top of a podium heapâ¦[a] fascinating memoir â a must-read for all who would gain insights into what makes a dedicated and complicated man of music tick.â ~ Chicago Tribune From a small town in the south of Italy to the pinnacle of the classical music world, Riccardo Muti has enthralled audiences across the globe as conductor of the worldâs most prestigious orchestras and opera houses. Now, after fifty years on the podium, he reflects on an extraordinary career, working with the great artists of his generation. Here, for the first time, he shares the personal anecdotes and revelations of a remarkable life in music." ;
+    book:aggregateRating "3.12" ;
+    book:author "Riccardo Muti" ;
+    book:bookFormat "Hardcover" ;
+    book:datePublished "09/06/2011" ;
+    book:isbn "9780847837458" ;
+    book:numberOfPages "244" ;
+    book:publisher "Rizzoli Ex Libris" ;
+    book:size "NA" .
+
+book:Still_Untitled_Not_Quite_Autobiography a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "0" ;
+    book:about "In charting the course of his career, Ron Moody casts an ever-analytical eye over his many shows, giving piercing insights into the hard work and attention to detail involved in creating characters, the role of anarchy and clowning in his performances, and the nature of comedy itself." ;
+    book:aggregateRating "0.0" ;
+    book:author "Ron Moody" ;
+    book:bookFormat "Hardcover" ;
+    book:datePublished "09/28/2010" ;
+    book:isbn "9781907532115" ;
+    book:numberOfPages "264" ;
+    book:publisher "Aurum" ;
+    book:size "NA" .
+
+book:Street_Fighting_Years_An_Autobiography_Sixties a book:name ;
+    price:price "$15.62" ;
+    rating_count:rating_count "101" ;
+    book:about "In this new edition of his memoirs, Tariq Ali revisits his formative years as a young radical. It is a story that takes us from Paris and Prague to Hanoi and Bolivia, encountering along the way Malcolm X, Bertrand Russell, Marlon Brando, Henry Kissinger, and Mick Jagger. Ali captures the mood and energy of those years as he tracks the growing significance of the nascent protest movement. This edition includes a new introduction, as well as the famous interview conducted by Tariq Ali and Robin Blackburn with John Lennon and Yoko Ono in 1971." ;
+    book:aggregateRating "3.85" ;
+    book:author "Tariq Ali" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "04/17/2005" ;
+    book:isbn "9781844670291" ;
+    book:numberOfPages "403" ;
+    book:publisher "Verso" ;
+    book:size "6.06(w) x 7.96(h) x 1.30(d)" .
+
+book:That_Thing_You_Do_With_Your_Mouth_The_Sexual_Autobiography_Samantha_Matthews_Told_David_Shields a book:name ;
+    price:price "$11.43" ;
+    rating_count:rating_count "58" ;
+    book:about "In That Thing You Do With Your Mouth, actress and voice-over artist Samantha Matthews offersâin the form of an extended monologue, prompted and arranged by New York Times bestselling author (and Matthewsâs cousin once removed) David Shieldsâa vivid investigation of her startling sexual history. From her abuse at the hands of a family member to her present-day life in Barcelona, where she briefly moonlighted as a dubber of Italian pornography into English, Matthews reveals herself to be a darkly funny, deeply contemporary woman with a keen awareness of how her body has been routinely hijacked, and how she has been âformattedâ by her early trauma. Her story is a study of her uneasy relationships with female desire, her tormentors, and her loversâwith whom she seeks out both the infliction and receipt of harm. This book is an attempt, sometimes self-thwarted, to break down barriers: sexual and emotional for Matthews, literary for Shields. For them, the only response to the unspeakable is to speak, to do that thing you do with your mouth, as directly and honestly as possible. Their provocative performance refuses neat resolution or emotional pornography; it will have readers, from literary critics to Jezebel commentators, raving, raging, celebrating, talking." ;
+    book:aggregateRating "3.43" ;
+    book:author "David Shields" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "06/09/2015" ;
+    book:isbn "9781940450810" ;
+    book:numberOfPages "160" ;
+    book:publisher "McSweeney's          \"]" ;
+    book:size "NA" .
+
+book:The_Autobiography a book:name ;
+    price:price "$13.62",
+        "NA" ;
+    rating_count:rating_count "327",
+        "34" ;
+    book:about "The dark journey of a boy who became a man, the man who became an artist, and the artist who became an icon. A talent for rhyme saved his life, but the demons and sins of his past continue to haunt him. This is the story of Earl Simmons.",
+        "The long-awaited autobiography of the greatest rugby player of our time: Brian O'Driscoll. Brian O'Driscoll has been among the greatest rugby players in the world since making his international debut in 1999. He is the most capped Irish captain of all time, and in 2010 Rugby World magazine named him its world player of the decade. Now, as his glittering career nears its end, he tells his own story - from childhood in Clontarf and school at Blackrock College to unprecedented success for club and country and four Lions tours." ;
+    book:aggregateRating "3.82",
+        "4.0" ;
+    book:author "Brian O'Driscoll",
+        "D.M.X." ;
+    book:bookFormat "Kindle Edition",
+        "Paperback" ;
+    book:datePublished "10/21/2003",
+        "10/23/2014" ;
+    book:isbn "9780060934033",
+        "9780241962695" ;
+    book:numberOfPages "0",
+        "352" ;
+    book:publisher "It Books",
+        "Penguin" ;
+    book:size "6.00(w) x 9.00(h) x 0.91(d)",
+        "NA" .
+
+book:The_Autobiography_Alexander_Luria_Dialogue_Making_Mind a book:name ;
+    price:price "$36.26" ;
+    rating_count:rating_count "2" ;
+    book:about "Alexander Luria was one of the most influential psychologists of the 20th century. His official autobiography was written as a citizen of the Soviet Union, and while it provides a compelling story of his lifelong devotion to developing a comprehensive theory of the biological and cultural foundations of human nature, it is conspicuous for the absence of information about the social context of his work and his personal struggles to be a decent person in indecent times. The current \"dialogic autobiography\" brings the vitality of Luria's ideas back to life. Michael Cole and Karl Levitin, both of whom knew Luria well and have written about his life and work, have written a carefully researched introduction and epilogue to the original autobiography. They provide readers, for the first time, with information about the social and personal contexts of Luria's remarkable achievements. Their account is supplemented by a DVD with reminiscences of leading psychologists from around the world who knew and worked with Luria. At last, Luria's life and science are brought together in a single volume. The book will appeal to psychologists, neuropsychologists, and other scientists interested in Luria's life achievements." ;
+    book:aggregateRating "4.0" ;
+    book:author "Michael Cole" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "09/19/2005" ;
+    book:isbn "9780805854992" ;
+    book:numberOfPages "276" ;
+    book:publisher "Lawrence Erlbaum Associates" ;
+    book:size "5.90(w) x 8.80(h) x 0.60(d)" .
+
+book:The_Autobiography_Chesterton a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "252" ;
+    book:about "G.K. Chesterton Here is a special two-in-one book that is both by G.K. Chesterton and about Chesterton. This volume offers an irresistible opportunity to see who this remarkable man really was. Chesterton was one of the most stimulating and well-loved writers of the 20th century. His 100 books, and hundreds of essays and columns on a great variety of themes have made G.K. Chesterton the most widely quoted writers of modern times. Here is Chesterton in his own words, in a book he preferred not to write, but did so near the end of his life after much insistence by friends and admirers. Critic Sydney Dark wrote after Chesterton died that perhaps the happiest thing that happened in Gilbert Chesterton's extraordinarily happy life was that his autobiography was finished a few weeks before his death. It is a stimulating, exciting, tremendously interesting book. It is a draught - indeed," ;
+    book:aggregateRating "4.11" ;
+    book:author "G.K. Chesterton" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "04/01/2006" ;
+    book:isbn "9781586170714" ;
+    book:numberOfPages "336" ;
+    book:publisher "Ignatius Press" ;
+    book:size "5.20(w) x 7.90(h) x 1.10(d)" .
+
+book:The_Autobiography_Frank_Kellogg a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "1" ;
+    book:about "NA" ;
+    book:aggregateRating "3.0" ;
+    book:author "Frank B. Kellogg" ;
+    book:bookFormat "NA" ;
+    book:datePublished "NA" ;
+    book:isbn "2940023961163" ;
+    book:numberOfPages "0" ;
+    book:publisher "NA" ;
+    book:size "NA" .
+
+book:The_Autobiography_Frau_Adolf_Hitler_Translated_Edited_Frank_Sanello a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "3" ;
+    book:about "In his new novel, Frank Sanello vividly recreates the Third Reich and World War II as seen through the eyes and daily diary of Hitler's imaginary wife, Countess Christina Bernadotte (1916-1948). The granddaughter of the king of Sweden, the countess is forced at the age of 16 to marry the 43-year-old Nazi dictator by her socially ambitious and abusive mother, an heiress to the Vanderbilt fortune. Her husband, strung out on morphine and cocaine, makes revolting sexual demands on his virginal wife involving coprophilia, a fetish that eroticizes feces. Lonely and isolated, Frau Hitler throws herself into a series of transient love affairs with the Third Reich's handsome foreign minister, the corrupt Joachim von Ribbentrop, Cary Grant, and Ernst Rohm, leader of the SA (Storm Troopers). Because of her many romantic liaisons, she doesn't know the identity of the father of her son, Folke, except that he's not her husband's. As the Holocaust claims more victims, Christina begins smuggling Jews out of Germany right under her drug-addled husband's nose. During the war, she travels to Auschwitz to rescue Jewish friends and bribes the Gestapo to allow other Jews to flee Nazi Germany. With her uncle, Count Folke Bernadotte, she helps organize the White Buses operation, a dangerous mission that transports 30,000 Jews and POWs to safety in Sweden aboard Red Cross buses painted white to avoid bombing the Allies or the Luftwaffe. As First Lady of the Reich, she meets or corresponds with various historical figures such as Sigmund Freud, Pope Pius XII and MGM chief Louis B. Mayer. Toward the end of the war, as she tries to flee home to Sweden with her son and adopted daughter, her arch-nemesis, Hermann Goring, Hitler's second in command and pedophile, forces her to choose one of her children to leave behind with him. The choice haunts the countess until tragedy intervenes during her work as UN mediator between warring Palestinian Jews and Arabs in 1948. These dramatic events are recorded in her daily diary, which her grandson finds hidden in a Holocaust memorial library and publishes as \"The Autobiography of Frau Adolf Hitler.\"" ;
+    book:aggregateRating "4.67" ;
+    book:author "Frank Sanello" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "06/22/2012" ;
+    book:isbn "9781477581728" ;
+    book:numberOfPages "252" ;
+    book:publisher "Createspace" ;
+    book:size "6.00(w) x 9.00(h) x 0.53(d)" .
+
+book:The_Curious_Autobiography_Elaine_Jakes a book:name ;
+    price:price "$17.99" ;
+    rating_count:rating_count "2" ;
+    book:about "From the jacket-flap: E l a i n e J a k e s was a schoolteacher in suburban Philadelphia. Living in the vivacious and eccentric community of New Hope, Pa, in the 1970s and 1980s, she very much reflected that town's character. Yet another place, Wales, the land of her forefathers, ever kept a spiritual hold on her, beckoning her homeward through the most unexpected of mechanisms (e.g. scents, strolls along a canal, animals, family and friends) until she discovers who she really is and the redemptive power of the cross. Her son, H. R. Jakes, a writer who lives in Texas, compiled her story. He has been writing all his life, and she thus felt confident to entrust him with that task. Through him, further books in this series will be forthcoming, first among them Curious Recipes: the Mostly Welsh Cookbook of Elaine Jakes, a charming (and tasty) combination of Elaine's tales with detailed recipes, featuring as an aspect of every vignette the story behind each culinary delight. H. R. Jakes is married to Diana, whom he met in Italy in 1979. They have 7 children and one grandchild, in whose eyes it is evident to one and all that Elaine's legacy lives on." ;
+    book:aggregateRating "5.0" ;
+    book:author "H.R. Jakes" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "03/30/2015" ;
+    book:isbn "9781480814752" ;
+    book:numberOfPages "268" ;
+    book:publisher "Archway Publishing" ;
+    book:size "NA" .
+
+book:The_Kindness_Strangers_The_Autobiography a book:name ;
+    price:price "$13.58" ;
+    rating_count:rating_count "335" ;
+    book:about "Kate Adie has courageously reported from all over the world since she joined the BBC in 1969. These memoirs encompass her reporting from, inter alia, Northern Ireland, the Middle East, Tiananmen Square and, of course, the Gulf War of 1991. From the siege at the Iranian embassy which shot her to public acclaim, to an alarming encounter with a drunken Libyan army commander who shot her at point-blank range, from the chaos and mayhem of desert warfare to Gracie Field's bizarre funeral, Kate has cooly kept us in touch through her reasoned and level reporting. Although an intensely private person, Kate Adie also divulges how, despite being sent to outlandish places at a moment's notice, she's maintained her interest in sailing, singing, and theatre, and what it's like to be a woman in a man's world." ;
+    book:aggregateRating "3.81" ;
+    book:author "Kate Adie" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "06/01/2003" ;
+    book:isbn "9780755310739" ;
+    book:numberOfPages "438" ;
+    book:publisher "Headline Book Publishing" ;
+    book:size "5.00(w) x 7.70(h) x 1.20(d)" .
+
+book:The_Living_Charlotte_Perkins_Gilman_An_Autobiography a book:name ;
+    price:price "$17.20" ;
+    rating_count:rating_count "32" ;
+    book:about "Charlotte Perkins Gilman (1869-1935) was one of the leading intellectuals of the American women's movement in the first two decades of the twentieth century. Moving beyond the struggle for suffrage, Gilman confronted an even larger problemâeconomic and social discrimination against women. Her book, Women and Economics , published in 1898, was repeatedly printed and translated into seven languages. She was a tireless traveler, lecturer, and writer and is perhaps best known for her dramatic short story, \"The Yellow Wallpaper.\" Gilman's autobiography gives us access to the life of a remarkable and courageous woman. Originally published in 1935, soon after Gilman's death, The Living of Charlotte Perkins Gilman has been out of print for several years. This edition includes a new introduction by Gilman's noted biographer, Anne J. Lane." ;
+    book:aggregateRating "3.75" ;
+    book:author "Charlotte Perkins Gilman" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "02/28/1991" ;
+    book:isbn "2900299127441" ;
+    book:numberOfPages "394" ;
+    book:publisher "University of Wisconsin Press" ;
+    book:size "NA" .
+
+book:The_Test_My_Autobiography a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "119" ;
+    book:about "This is the long-awaited autobiography of the greatest rugby player of our time: Brian O'Driscoll. Since 1999, when he made his international debut, there has been no greater player in world rugby than Brian O'Driscoll. In 2010 Rugby World magazine named him its world player of the decade - and since then the legend has only grown. Now, at the end of his amazing career - which culminated in fairy-tale fashion with Ireland's victory in the 2014 Six Nations championship - he tells his own story. Honest, gritty and thoughtful, Brian O'Driscoll's Autobiography is not just an essential sports book. It is an essential book about family, friends, hard work, courage and imagination. \"An amazing career. There will only ever be one BOD\". (Dan Carter). \"A thoroughly enjoyable read ...After reading The Test I warmed even more to O'Driscoll as a player and a man. He stood for a new ethos in Irish sport that refused to accept mediocrity or glorious failure\". (Fergal Keane, Irish Times). \"O'Driscoll's honesty ...takes the reader to a place they simply have not been before\". (Vincent Hogan, Irish Independent)." ;
+    book:aggregateRating "3.36" ;
+    book:author "Brian O'Driscoll" ;
+    book:bookFormat "Hardcover" ;
+    book:datePublished "10/23/2014" ;
+    book:isbn "9780241962695" ;
+    book:numberOfPages "408" ;
+    book:publisher "Penguin Ireland" ;
+    book:size "NA" .
+
+book:The_Wind_Spirit_An_Autobiography a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "21" ;
+    book:about "Michel Tournier, one of France's most acclaimed contemporary men of letters, received teh Prix Goncourt for his novel The Ogre and the Grand Prix du Roman from the Academie Francaise for his novel Friday. As a fabulist, his stature equals that of Gunter Grass, Gabriel Garcia Marquez, Italo Calvino, Milan Kundera, and John Barth. As an iconoclast in contemporary cultural criticism, he has been likened to Roland Barthes. The Wind Spirit is a literary/intellectual autobiography of extraorinary grace and intelligence, and yet the play of the author's ideas - and of his wicked wit - gives the book a depth and resonane that transcend the boudaries of the genre. Although the six essays that make up the book are ostensibly structured around the author's childhood, education, and the creation of his major works of fiction, they branch out to gice us fascinating glimpses of life in Frnace before and during World War II, of the frenetic bustle of postwar Europe, and of famous personalities such as Jean-Paul Sartre. Equally compelling are Tournier's fresh and controversial views on the topics of sexuality, education, and the uneasy relationship between French and German thought. For those unfamiliar with Tournier, The Wind Spirit provides and ideal introduction to one of Europe's foremost literary figures and to a brilliant body of work. Those who know and admire the author's novels will find here both a source of keen pleasure and an indispensable account of Tournier's creative development." ;
+    book:aggregateRating "3.86" ;
+    book:author "Michel Tournier" ;
+    book:bookFormat "Hardcover" ;
+    book:datePublished "11/28/1988" ;
+    book:isbn "9780807070406" ;
+    book:numberOfPages "259" ;
+    book:publisher "Beacon Press (MA)" ;
+    book:size "NA" .
+
+book:Things_Couldn_Tell_My_Mother_My_Autobiography a book:name ;
+    price:price "$13.50" ;
+    rating_count:rating_count "109" ;
+    book:about "'There was a lot that we kept from my mother. My dad would say to me as a teenager, \"Don't tell your mother.\" We couldn't face the disapproval.' Sue Johnston always seemed to be disappointing her mother. As a girl she never stayed clean and tidy like her cousins. As she grew older, she spent all her piano lesson money on drinks for her mates down the pub, and when she discovered the Cavern she was never at home. The final straw was when Sue left her steady job at a St. Helens factory to try her hand at the unsteadiest of jobs: acting. Yet when Sue was bringing up her own child alone, her mother was always there to help. And playing her much-loved characters Sheila Grant and Barbara Royle - although her mum wouldn't say she was proud as such, she certainly seemed to approve. And in her mother's final months, it was Sue she needed by her side. The relationship with your mother is perhaps the most precious and fraught of any woman's life. When she began writing, Sue set out to record, \"All the big things, and all the small things. Everything I wanted to tell my mother but felt I never could.\" The result is a warm, poignant, and often very funny memoir by one of our favorite actresses." ;
+    book:aggregateRating "3.73" ;
+    book:author "Sue Johnston" ;
+    book:bookFormat "Hardcover" ;
+    book:datePublished "09/01/2011" ;
+    book:isbn "9781409034698" ;
+    book:numberOfPages "352" ;
+    book:publisher "Ebury Press" ;
+    book:size "NA" .
+
+book:This_Is_Me_The_Autobiography a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "146" ;
+    book:about "Ian Thorpe's achievements in the water are nothing short of phenomenal. He has won a record-holding eleven World Championship titles and ten Commonwealth Games gold medals. He has broken twenty-two world records and won five gold, three silver and one bronze Olympic medals. Having been under the spotlight since he was a young teenager, Thorpe retired from competitive swimming in 2006 because of the intense pressure he felt, but five years later he decided to make a hugely publicised comeback. Ian is one of the world's most successful sportsmen, but it is the way he has managed his triumphs and his commitment to helping others that have earned him respect and admiration internationally. Thorpe's autobiography follows him all the way from his childhood in Sydney right up to the London Olympics.This is a man who has had highs and lows away from the pool, who has led an extraordinary life of an elite athlete that most of us will never know, who has faced up to his own demons, and who has the courage to come back and stake his claim for the ultimate goal once more." ;
+    book:aggregateRating "3.58" ;
+    book:author "Ian Thorpe" ;
+    book:bookFormat "Kindle Edition" ;
+    book:datePublished "10/24/2012" ;
+    book:isbn "9780731815739" ;
+    book:numberOfPages "336" ;
+    book:publisher "Simon & Schuster UK" ;
+    book:size "NA" .
+
+book:Up_From_Slavery_An_Autobiography a book:name ;
+    price:price "$32.75",
+        "$6.99",
+        "NA" ;
+    rating_count:rating_count "2" ;
+    book:about "The ground-breaking autobiography of Booker T. Washington." ;
+    book:aggregateRating "4.5" ;
+    book:author "Booker T. Washington" ;
+    book:bookFormat "Kindle Edition" ;
+    book:datePublished "02/08/2015",
+        "06/10/2015" ;
+    book:isbn "9781295966271",
+        "9781627557863",
+        "9781633846586" ;
+    book:numberOfPages "202" ;
+    book:publisher "Chios Classics" ;
+    book:size "7.44(w) x 9.69(h) x 0.72(d)",
+        "NA" .
+
+book:Voices_Made_Flesh_Performing_Women_Autobiography a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "5" ;
+    book:about "Fourteen bold, dynamic, and daring women take the stage in this collection of women's lives and stories. Individually and collectively, these writers and performers speak the unspoken and perform the heretofore unperformed. The first section includes scripts and essays about performances of the lives of Gertrude Stein, Georgia O'Keeffe, Mary Church Terrell, Charlotte Cushman, AnaÃ¯s Nin, Calamity Jane, and Mary Martin. The essays consider intriguing interpretive issues that arise when a woman performer represents another woman's life. In the second section, seven performersâTami Spry, Jacqueline Taylor, Linda Park-Fuller, Joni Jones, Terri Galloway, Linda M. Montano, and Laila Farahâtell their own stories. Ranging from narrrative lectures (sometimes aided by slides and props) to theatrical performances, their works wrest comic and dramatic meaning from a world too often chaotic and painful. Their performances engage issues of sexual orientation, ethnicity, race, loss of parent, disability, life and death, and war and peace. The volume as a whole highlights issues of representation, identity, and staging in autobiographical performance. It examines the links among theory and criticism of women's autobiography, feminist performance theory, and performance practice." ;
+    book:aggregateRating "4.2" ;
+    book:author "Lynn C. Miller" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "10/28/2003" ;
+    book:isbn "9780299184247" ;
+    book:numberOfPages "344" ;
+    book:publisher "University of Wisconsin Press" ;
+    book:size "6.00(w) x 9.00(h) x 1.00(d)" .
+
+book:With_Head_Heart_The_Autobiography_Howard_Thurman a book:name ;
+    price:price "$16.37" ;
+    rating_count:rating_count "102" ;
+    book:about "Howard Thurman was a unique man-a black minister, philosopher, and educator whose vitality and vision touched the lives of countless people of all races, faiths, and cultures. Index; photographs." ;
+    book:aggregateRating "4.41" ;
+    book:author "Howard Thurman" ;
+    book:bookFormat "Paperback" ;
+    book:datePublished "10/14/1981" ;
+    book:isbn "9780156976480" ;
+    book:numberOfPages "304" ;
+    book:publisher "Mariner Books" ;
+    book:size "5.20(w) x 7.90(h) x 0.80(d)" .
+
+book:Works_Thomas_Jefferson_Including_The_Jefferson_Bible_Autobiography_The_Writings_Thomas_Jefferson_Illustrated_Notes_Virginia_Parliamentary a book:name ;
+    price:price "NA" ;
+    rating_count:rating_count "25" ;
+    book:about "Table of Contents: Autobiography The Jefferson Bible, or The Life and Morals of Jesus of Nazareth The Writings of Thomas Jefferson (Illustrated), including Autobiography, Notes on Virginia, Parliamentary Manual, Official Papers, Messages and Addresses, and Other Writings, Official and Private Appendix: Thomas Jefferson Biography About and Navigation" ;
+    book:aggregateRating "4.48" ;
+    book:author "Thomas Jefferson" ;
+    book:bookFormat "Kindle Edition" ;
+    book:datePublished "NA" ;
+    book:isbn "2940021467605" ;
+    book:numberOfPages "0" ;
+    book:publisher "NA" ;
+    book:size "NA" .
+
+book:Write_Your_Own_Autobiography a book:name ;
+    price:price "$33.99" ;
+    rating_count:rating_count "0" ;
+    book:about "Take an eye-opening look at yourself, inside and out. Knowing yourself is important as you write your own autobiography. The writing process will help you explore and explain what you see inside yourself. And it may even change your life!" ;
+    book:aggregateRating "0.0" ;
+    book:author "Natalie M. Rosinsky" ;
+    book:bookFormat "Hardcover" ;
+    book:datePublished "01/28/2008" ;
+    book:isbn "9780756535254" ;
+    book:numberOfPages "64" ;
+    book:publisher "Compass Point Books" ;
+    book:size "6.10(w) x 9.10(h) x 0.40(d)" .
+
