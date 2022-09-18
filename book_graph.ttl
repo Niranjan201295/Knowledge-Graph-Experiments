@@ -1,10 +1,3 @@
-@prefix book: <https://schema.org/Book/> .
-@prefix book_id: <http://dsci558.org/BookID/> .
-@prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix price: <http://dsci558.org/Price/> .
-@prefix rating_count: <http://dsci558.org/RatingCount/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-
 book_id: a foaf:Document ;
     price:price " ",
         "$10.79",
